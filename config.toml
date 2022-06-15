@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
+baseURL = "https://affixrevy.github.io/geeks/"
 title = "McMaster Geeks"
 theme = "omega"
 # google analytics
