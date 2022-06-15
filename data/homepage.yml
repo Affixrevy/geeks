@@ -1,0 +1,77 @@
+#################### Banner #####################
+banner:
+  enable : true
+  title : "McMaster Geeks"
+  content : "Dolor ea ullamco aliqua esse est ex eu magna sunt adipisicing labore officia sint in elit est."
+  image : "images/hero-image/video-games.webp"
+  button:
+    enable : true
+    label : "WHAT WE DO"
+    link : "#products"
+
+#################### Mission #####################
+mission:
+  enable : false
+  title : "Propel Advancement"
+  section : "MISSION"
+  content : "Introducing the world’s first Advancement Company. As we enter the dawn of the digital age a significant leap must be made to propel the world into the age of advancement."
+  video_thumb: "images/video-thumb.jpg"
+  video_id: "ResipmZmpDU"
+
+
+#################### Vission #####################
+vision:
+  enable : false
+  section : "VISION"
+  vision_item:
+  - title : "People First"
+    image : "images/vision/vision-01.jpg"
+    content : "I started with a vision of creating an atmosphere where people come first. <br>Paul Sanar Founder"
+    
+  - title : "Employee Culture"
+    image : "images/vision/vision-02.jpg"
+    content : "I started with a vision of creating an atmosphere where people come first. <br>Paul Sanar Founder"
+    
+  - title : "The Omega Way"
+    image : "images/vision/vision-03.jpg"
+    content : "I started with a vision of creating an atmosphere where people come first. <br>Paul Sanar Founder"
+
+
+#################### product ####################
+product:
+  enable : true
+  section : "Events"
+  title : "Some Of Our Upcoming Events"
+  content : "See some of the many events we have planned. Find an event that excites you and we will make sure you'll have a blast!"
+  product_item:
+  - title : "Meet N Geek"
+    image : "images/product/question.webp"
+    content : "Quis anim veniam mollit aute proident sit veniam velit ad. Qui id sunt tempor eu reprehenderit laboris sint exercitation id voluptate. Est fugiat excepteur fugiat eiusmod amet non dolor officia tempor ullamco laborum qui id consequat."
+    project_url : "#"
+    
+  - title : "Ghibli Night"
+    image : "images/product/theatre.webp"
+    content : "Amet eu id minim consequat enim ut. Laboris exercitation nulla elit laborum eu culpa aliqua ea eiusmod. Tempor esse consequat eiusmod officia."
+    project_url : "#"
+    
+  - title : "Squid Geeks"
+    image : "images/product/sGeeks.webp"
+    content : "Est anim elit dolor tempor anim veniam proident aliqua eu. Irure sit excepteur exercitation laboris quis."
+    project_url : "#"
+
+
+###################### Contact ####################
+contact:
+  enable : true
+  section : "CONTACT US"
+  title : "Sign Up"
+  image : "images/mcmaster.jpeg"
+  content : "Join McMaster geeks and sign up for never ending fun and entertainment!"
+
+  
+################### call to action #################
+call_to_action:
+  enable : false
+  title : "Join McMaster Geeks. <br>Click Join our Discord and follow our other socials."
+  button_label : "Discord"
+  button_link : "https://arthurgao.ca"
